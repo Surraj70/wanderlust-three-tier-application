@@ -1,0 +1,14 @@
+
+> frontend@0.0.0 dev
+> vite --host
+
+
+  VITE v4.5.0  ready in 1109 ms
+
+  ➜  Local:   http://localhost:5173/
+  ➜  Network: http://172.31.30.24:5173/
+Browserslist: caniuse-lite is outdated. Please run:
+  npx update-browserslist-db@latest
+  Why you should do it regularly: https://github.com/browserslist/update-db#readme
+3:18:25 PM [vite] .env.local changed, restarting server...
+3:18:25 PM [vite] server restarted.
